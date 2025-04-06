@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This research enhances the traditional event study methodology by applying Artificial Intelligence to predict normal returns of green and brown portfolios. Instead of relying on standard Capital Asset Pricing Model (CAPM) or market model approaches, this project implements a **Nonlinear AutoRegressive with eXogenous inputs (NARX) neural network** to improve prediction accuracy.
+This research enhances the traditional event study methodology by applying neural network to predict normal returns of green and brown portfolios. Instead of relying on standard CAPM or market model approaches, this project implements a **Nonlinear AutoRegressive with eXogenous inputs (NARX) neural network** to improve prediction accuracy.
 
 The study specifically examines market reactions to the European Green Deal's ambitions leaked on November 29, 2019, focusing on how this climate policy affected green versus brown companies in the Eurozone.
 
